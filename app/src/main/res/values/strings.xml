@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Maple Health</string>
+    <string name="dose_widget_description">One-tap medication dose logging</string>
+    <string name="dose_widget_empty">Add a dose widget from the MedTrack menu</string>
+    <string name="dose_widget_take">Take</string>
+</resources>
