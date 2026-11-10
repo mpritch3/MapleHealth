@@ -46,6 +46,9 @@ no
 ### Will you publish this on the play store?
 no
 
+### How do I find t½ and tmax?
+google dot com
+
 ## deets
 - **Language**: Kotlin
 - **UI Framework**: Jetpack Compose with Material 3
