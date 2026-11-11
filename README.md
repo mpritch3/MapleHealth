@@ -3,7 +3,7 @@ Android pharmacokinetic tracking and sobriety tracking app.
 - lets you figure out your meds and track your mental health without being marketed to (eat shit I Am Sober)
 
 ## Download
-[MapleHealth APK](releases/MapleHealth.apk)
+[MapleHealth APK](https://github.com/mpritch3/MapleHealth/releases)
 
 ## What's it do?
 ### Medication Management
